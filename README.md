@@ -32,13 +32,13 @@ I am a certified **Fachinformatiker für Anwendungsentwicklung** (Application De
 
 ## 🏅 Certificates  
 ### Cisco - Introduction to Cybersecurity  
-![Introduction-to-Cybersecurity.png](node_modules/img/Introduction-to-Cybersecurity.png)
+![Introduction-to-Cybersecurity.png](node_modules/img/Introduction-to-Cybersecurity.png)  
 This badge was issued to Pascal Bienenstein on September 15, 2023.
 
 ### Cisco - Introduction to IoT
-![Intro2IoT.png](node_modules/img/Intro2IoT.png)
+![Intro2IoT.png](node_modules/img/Intro2IoT.png)  
 This badge was issued to Pascal Bienenstein on January 30, 2025
 
 ### Cisco - Python Essentials 1
-![Python-Essentials-1.png](node_modules/img/Python-Essentials-1.png)
+![Python-Essentials-1.png](node_modules/img/Python-Essentials-1.png)  
 This badge was issued to Pascal Bienenstein on January 30, 2025
