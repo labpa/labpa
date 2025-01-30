@@ -24,3 +24,8 @@ I am a certified **Fachinformatiker für Anwendungsentwicklung** (Application De
 - **Kanban**
 - **Scrum**
 - **Object-Oriented Programming (OOP)**
+
+## 🚀 Current Projects  
+- **Implementation of a management system for current projects on my homepage after login**  
+- **Time tracking for current projects on my homepage after login**  
+- **Learning Python and preparing for certification according to PCEP and PCAP – see https://github.com/labpa/PythonLernen**  
